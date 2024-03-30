@@ -1,10 +1,11 @@
-import "./taskbar.css";
+import "../Taskbar/taskbar.css";
 
 const Taskbar = () => {
     return(
         <>
             <div className="taskbar--container">
-                <h1>Taskar</h1>
+                <div>apps</div>
+                <div>util</div>
             </div>
         </>
     )

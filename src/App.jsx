@@ -1,14 +1,13 @@
-import './App.css'
-import Taskbar from "./components/Taskbar";
+import "./App.css";
+import Screen from "./components/Screen/Screen";
 
 function App() {
   
 
   return (
     <>
-      <div>
-        <h1>Hello World!</h1>
-        <Taskbar />
+      <div className='app--container'>
+          <Screen />
       </div>
     </>
   )
