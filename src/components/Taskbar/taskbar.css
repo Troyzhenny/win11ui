@@ -6,5 +6,34 @@
     display: flex;
     place-items: center;
     justify-content: center;
-    background-color: blueviolet;
+    background-color: rgba(28, 28, 28, 0.774);
+}
+
+:is(.leftBox, .rightBox) {
+    width: 450px;
+    height: 100%;
+    display: inline-flex;
+    place-items: center;
+    color: #fff;
+}
+
+.centerBox {
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    place-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+#taskIcons {
+    width: 35px;
+    margin: 0 5px;
+    padding: 3px;
+    border-radius: 5px;
+
+    &:hover {
+        background-color: #ffffff5d;
+        transition: .2s ease;
+    }
 }
