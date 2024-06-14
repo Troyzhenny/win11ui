@@ -16,6 +16,6 @@ git clone https://github.com/your-username/windows-11-ui-clone.git
 
 cd windows-11-ui-clone
 
-    Install dependencies:
+    2.    Install dependencies:
 
-    npm install
+    1.    npm install
