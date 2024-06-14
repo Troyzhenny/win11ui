@@ -12,10 +12,18 @@ Clone the repository:
 
 git clone https://github.com/your-username/windows-11-ui-clone.git
 
-'Navigate to the project directory:
+Navigate to the project directory:
 
 cd windows-11-ui-clone
 
     2.    Install dependencies:
 
     1.    npm install
+
+License
+
+This project is licensed under the MIT License.
+
+Contact
+
+	•	Tevin Troy Campbell - [tropicboytroy@gmail.com]
