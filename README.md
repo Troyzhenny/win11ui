@@ -12,7 +12,7 @@ Clone the repository:
 
 git clone https://github.com/your-username/windows-11-ui-clone.git
 
-- Navigate to the project directory:
+'Navigate to the project directory:
 
 cd windows-11-ui-clone
 
